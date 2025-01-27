@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **HTML, CSS, Tailwind, JS, React JS**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **thebestview586@gmail.com**
 
