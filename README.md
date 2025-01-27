@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Priyanshupriya686/Priyanshupriya686/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Priyanshu Priya</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
