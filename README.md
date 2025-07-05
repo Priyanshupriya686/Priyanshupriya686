@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_priyanshu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_priyanshu__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshu priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu priya" height="30" width="40" /></a>
-<a href="https://fb.com/priyanshu priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu priya" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshupriya686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshupriya686" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-priya-835348256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu priya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/priyanshu.raj.37819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu priya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/priyanshupriya686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshupriya686" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
