@@ -55,7 +55,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Priyanshupriya686&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshupriya686&theme=nightowl&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Priyanshupriya686&theme=nightowl&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshupriya686&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
