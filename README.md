@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Priya</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from India 💻☁️</h3>
+<h3 align="center">🚀 A passionate Frontend Developer from India 💻</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
