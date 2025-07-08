@@ -9,7 +9,7 @@
 <h3 align="center">🚀 Email Me 👉 ✉️ <a href="hardestclimb586@gmail.com">hardestclimb586@gmail.com</a> For Collaboration/Project or Anything Else. 😊😊
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - A passionate Self-taught Front-end developer
 - Personal website [link](https://www.0xabdulkhalid.ml)
@@ -19,9 +19,15 @@
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 🤔 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 - 💜 Co-Convenor at <a href="https://samarthtmsl.vercel.app//">Samarth</a>- Educational Society of TMSL
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+    
+  ![snake gif](https://github.com/Priyanshupriya686/Priyanshupriya686/blob/output/github-snake-dark.svg)
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -41,3 +47,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupriya686&" alt="priyanshupriya686" /></p>
 
+-----
+Credits: [Priyanshu Priya](https://github.com/Priyanshupriya686)
+Last Edited on: 7/8/2025
