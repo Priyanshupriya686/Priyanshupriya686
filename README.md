@@ -12,7 +12,7 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshupriya686&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshupriya686" /> </p>
 
-<picture> <img align="right" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width = 300px></picture>
+<picture> <img align="right" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width = 300px></picture>
 
 - 😄 **Pronouns:** He/Him.
 - ✨ You can visit [MY WEBSITE](https://priyanshu686.vercel.app/).
