@@ -1,16 +1,28 @@
-![logo](https://github.com/Priyanshupriya686/Priyanshupriya686/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Priyanshu Priya</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 A passionate Frontend Developer from India 💻☁️</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
+
+<h3 align="center">🚀 Email Me 👉 ✉️ <a href="hardestclimb586@gmail.com">hardestclimb586@gmail.com</a> For Collaboration/Project or Anything Else. 😊😊
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshupriya686&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshupriya686" /> </p>
+- A passionate Self-taught Front-end developer
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- 🌱 **I’m currently learning:** Web Development
+- 📫 **Reach me at:** hardestclimb586@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🤔 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 💜 Co-Convenor at <a href="https://samarthtmsl.vercel.app//">Samarth</a>- Educational Society of TMSL
 
-- 🌱 I’m currently learning **Frontend Development**
-
-- 💬 Ask me about **HTML, CSS, JS**
-
-- 📫 How to reach me **hardestclimb586@gmail.com**
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
