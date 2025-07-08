@@ -14,12 +14,12 @@
 
 <picture> <img align="right" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width = 300px></picture>
 
-- 😄 **Pronouns:** He/Him.
-- ✨ You can visit [MY WEBSITE](https://priyanshu686.vercel.app/).
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me.
-- 🌱 **I’m currently learning:** Web Development.
+- 📍 Kolkata, India.
+- ✨ You can visit my [PORTFOLIO](https://priyanshu686.vercel.app/).
+- 🎓 Pursuing B.Tech CSE at Techno Main Salt Lake.
+- 🌱 **I’m currently learning:** Frontend Development.
 - 💜 Co-Convenor at <a href="https://samarthtmsl.vercel.app//">SAMARTH</a>- Educational Society of TMSL.
-- 🤔 I’m currently open for an Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1tQPt3p8RzRW8yJ3A1y1upaqlsIPFbUYM/view?usp=sharing).
+- 🤔 Open for Internship or Full-Time opportunities, this is my [RESUME](https://drive.google.com/file/d/1tQPt3p8RzRW8yJ3A1y1upaqlsIPFbUYM/view?usp=sharing).
 
 <div align="center">
     
