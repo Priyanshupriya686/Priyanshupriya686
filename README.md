@@ -11,6 +11,7 @@
 -----
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshupriya686&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshupriya686" /> </p>
+
 <picture> <img align="right" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width = 300px></picture>
 
 - 😄 **Pronouns:** He/Him.
