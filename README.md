@@ -90,6 +90,6 @@
 -----
 <div align="center">
 
-Credits: [Priyanshu Priya](https://github.com/Priyanshupriya686)<br>
+© 2025 [Priyanshu Priya](https://github.com/Priyanshupriya686). All rights reserved<br>
 Last Edited on: 7/8/2025
 </div>
